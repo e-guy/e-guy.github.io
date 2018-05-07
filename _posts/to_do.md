@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Carte Noire in Action
+date:       2018-5
+summary:    todo
+categories: others
+thumbnail: cogs
+tags:
+ - to
+ - do
+---
+
 *Youtube* 
 * To be download [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)  
 * To be download [Welch Labs](https://www.youtube.com/user/Taylorns34/playlists)
